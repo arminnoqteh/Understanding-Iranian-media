@@ -18,8 +18,8 @@ The project contains three Jupyter notebooks:
 
 ## How to run the project
 
-Will be completed.
+_Will be completed in a few hours._
 
-## License
+### Paper
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+You can find the paper [here](https://drive.google.com/file/d/12wQAGaohkQweZI0s7hcKXCQjphWGZn5q/view?usp=sharing). It's terribly written and placing of plots is horrible, I know!
