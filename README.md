@@ -1,6 +1,6 @@
 # The landscape of Iranian media: A Computational Study
 
-This project analyzes the news articles from the 5 news agencies from 2018 to 2024, and uses natural language processing and machine learning techniques to detect patterns and trends, there was an attemp for predicting later explained.
+This project analyzes the news articles from 5 news agencies from 2018 to 2024, and uses natural language processing and machine learning techniques to detect patterns and trends, there was an attemp for predicting later explained.
 
 ## Data
 
@@ -22,4 +22,4 @@ _Will be completed in a few hours._
 
 ### Paper
 
-You can find the paper [here](https://drive.google.com/file/d/12wQAGaohkQweZI0s7hcKXCQjphWGZn5q/view?usp=sharing). It's terribly written and placing of plots is horrible, I know!
+You can find the paper [here](https://drive.google.com/file/d/12wQAGaohkQweZI0s7hcKXCQjphWGZn5q/view?usp=sharing). It's terribly written and placing of the plots is horrible, I know!
