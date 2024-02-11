@@ -6,9 +6,9 @@ This project analyzes the news articles from five news agencies in Iran from 201
 
 The data for this project consists of news articles scraped from the websites of the following news agencies using Scrapy, a web crawling framework:
 
-- IRNA
+- Shargh
 - ISNA
-- Mehr
+- Khabaronline
 - Fars
 - Tasnim
 
