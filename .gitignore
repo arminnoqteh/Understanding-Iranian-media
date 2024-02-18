@@ -4,6 +4,10 @@ data/*
 # Ignore Readings dir
 Readings
 
+eng paper
+plots
+farsi-paper
+
 # Ignore DS_Store
 .DS_Store
 
